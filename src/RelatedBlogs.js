@@ -20,7 +20,7 @@ const RelatedBlogs = () => {
                         borderBottomRadius='0'>
 
                         <HStack>
-                            <Text color='white' pos="absolute" top="3" left="550">Events</Text>
+                            <Text color='white' pos="absolute" top="3" left="500">Events</Text>
 
                             <Box pos="absolute" top="2" left="730">
                                 <HeartShareIcons />
